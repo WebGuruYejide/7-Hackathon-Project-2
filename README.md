@@ -1,22 +1,20 @@
-Brandi HTML5 Bootstraped Business Template
+Modified HTML5 Bootstraped Business Template
 ========
 
 <img src ="https://cloud.githubusercontent.com/assets/10640964/5989549/0f93dfc8-a9b6-11e4-8f1e-75189f6a5759.jpg" />
 
-<a href="http://themefisher.com/download/brandi-corporate-template/> Live Preview </a>
+<a href="http://themefisher.com/download/brandi-corporate-template/> Live Preview > Live Preview </a>
 
 =========
 
-Brandi is a corporate template that is perfect for individuals or businesses. This theme comes with crisp animation and is responsive meaning it looks great on all devices.These demo is just a example … you can make your own color schemes to further customize your template.
+This is the amazing and creative Hackathon project of the supper brilliant women of Group Seven. 
 
-Key Feature
+Justice is in the process of embedding the perfect words to go into this readme file. 
 
-100% Responsive Design
-Bootstrap 3.2 Compatible
-Valid HTML5/CSS3 Markup
-Google Fonts Support
-Clean Code, All files are well commented and organized
-Documentation File Included
-PSD credit: https://dribbble.com/themecurve
+Team Lead & Cloud Architect   Aisa Flowers
+Developer                     Aliyah Flowers    
+Technical Writer              Justice Delcore  
+UI Designer                   Yejide Travis 
 
-A template By <a href="http://www.themefisher.com>Themefisher</a>
+
+Yejide modified template By <a href="http://www.themefisher.com>Themefisher</a>
