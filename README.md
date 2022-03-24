@@ -9,7 +9,7 @@ Modified HTML5 Bootstraped Business Template
 
 This is the amazing and creative Hackathon project of the supper brilliant women of Group Seven. 
 
-Justice is in the process of embedding the perfect words to go into this readme file. 
+Justice is in the process of writing the perfect words to go into this readme file. 
 
 Team Lead & Cloud Architect   Aisa Flowers
 Developer                     Aliyah Flowers    
